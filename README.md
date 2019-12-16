@@ -1,2 +1,4 @@
-# javautils
-Common things I seem to build in every java project I work in
+utils
+====
+
+Commun utils for stuff that is nice to have
